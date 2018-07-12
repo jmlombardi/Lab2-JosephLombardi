@@ -1,4 +1,4 @@
-##Joseph Lombardi
+Joseph Lombardi
 ###Lab2
 [Click here for My GitHub Lab 2 Repository](https://github.com/jmlombardi/Lab2-JosephLombardi)
 ####Due 06/13/2018
